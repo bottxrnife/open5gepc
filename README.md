@@ -1,4 +1,4 @@
-# Magma
+# Magma (Bottxrnife edit, added automated configuration option for Baicells 436q)
 
 [![magma](https://circleci.com/gh/magma/magma.svg?style=shield)](https://circleci.com/gh/magma/magma)
 
